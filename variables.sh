@@ -39,7 +39,7 @@ literal_full_name='$first_name $last_name'
 echo $full_name $literal_full_name $name
 
 # Set the value in a variable as the path to a directory 
-sampledir=../Bash-Projects
+sampledir=../Bash-Script
 
 #List the contents of the directory in the variable 
 ls $sampledir
