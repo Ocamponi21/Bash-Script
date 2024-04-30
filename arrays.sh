@@ -8,6 +8,7 @@
 # create an array of 5 string 
 grades=("A" "B" "C" "D" "F")
 
+
 #Display the valued in the first and fifth elements 
 echo ${grades[0]}
 echo ${grades[4]}
